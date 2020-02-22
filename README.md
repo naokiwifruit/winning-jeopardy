@@ -10,4 +10,4 @@ We want to compete on Jeopardy and you are looking for how to get to win. In thi
 1. naokiwifruit 『クイズ番組Jeopardyのデータセットを使ってカイ2乗検定に超入門する』note.com (2019) [[link](https://note.com/naokiwifruit/n/n8193a4401813)].
 
 ## References
-1. trexmatt, "200,000+ Jeopardy! Questions in a JSON file" reddit.com (2019) [[link](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/)].
+1. trexmatt, "200,000+ Jeopardy! Questions in a JSON file" reddit (2019) [[link](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/)].
